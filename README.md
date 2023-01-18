@@ -1,7 +1,4 @@
-# Day 08 – Java bootcamp
-### Spring
-
-*Takeaways: Today you will learn about enterprise-level Java development and the basics of the Spring framework*
+# Spring
 
 ### Exercise 00 – Spring Context
 
